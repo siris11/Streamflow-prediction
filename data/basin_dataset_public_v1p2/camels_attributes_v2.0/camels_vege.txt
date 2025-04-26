@@ -1,0 +1,2 @@
+gauge_id;frac_forest;lai_max;lai_diff;gvf_max;gvf_diff;dom_land_cover_frac;dom_land_cover;root_depth_50;root_depth_99
+01013500;0.9063;4.1673039455613;3.34073185949204;0.804567420071824;0.37164816263051;0.883451918625571;    Mixed Forests;NA;NA

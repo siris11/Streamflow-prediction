@@ -1,0 +1,2 @@
+gauge_id;huc_02;gauge_name
+01013500;01;Fish River near Fort Kent, Maine

@@ -1,0 +1,2 @@
+gauge_id;geol_1st_class;glim_1st_class_frac;geol_2nd_class;glim_2nd_class_frac;carbonate_rocks_frac;geol_porostiy;geol_permeability
+01013500;Siliciclastic sedimentary rocks;0.815904446815535;Basic volcanic rocks;0.179729452382194;0;0.1714;-14.7019
